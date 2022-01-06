@@ -1,0 +1,82 @@
+h1{
+    font-size: 40px;
+}
+#stay-focused{
+    border-left: 4px solid;
+    border-image: linear-gradient(fuchsia, chocolate);
+    border-image-slice: 1;
+    padding-left: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+.color-orange{
+    color: orange;
+}
+.width-half{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.flaxible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.flaxible-container img{
+    width: 85%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(chocolate, fuchsia);
+    padding: 10px;
+    font-weight: 700;
+    color: cyan;
+}
+.font-cursive{
+    font-family: cursive;
+}
+.text-center{
+    text-align: center;
+}
+.item-mission-2022{
+    width: 25%;
+    border-radius: 10px;
+    padding-left: 5%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.item-mission{
+    background-color: rgb(240, 240, 229);
+}
+.item-vission{
+    background-color: rgb(243, 237, 181);
+}
+.item-goals{
+    background-color: rgb(241, 227, 99);
+}
+.background{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+.background-shape1{
+    background-position: left;
+}
+.background-shape2{
+    background-position: right;
+    padding-bottom: 32%;
+    padding-right: 1%;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.footer-font{
+    font-family: 'Dancing Script', cursive;
+}
+.text-center img{
+    width: 80%;
+    border: 5px solid rgb(248, 241, 227);
+}
